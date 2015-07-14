@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 # Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
 
-node_modules/
-platforms/
-plugins/
-=======
 # Logs
 logs
 *.log
@@ -33,4 +28,6 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
->>>>>>> 1fe7568b1ea438cf74cb9cbfaa31dd604bdcda93
+
+platforms/
+plugins/
